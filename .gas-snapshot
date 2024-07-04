@@ -1,0 +1,5 @@
+TestRaffle:testEnterRaffleFailsOnLowEntryFeePaying() (gas: 32431)
+TestRaffle:testEnteringRaffleChangePlayersDataStructure() (gas: 87778)
+TestRaffle:testEnteringRaffleEmitsPlayersLogEvent() (gas: 88183)
+TestRaffle:testEnteringRaffleRevertWhenRaffleStateIsNotOpen() (gas: 198706)
+TestRaffle:testRafflenOnlyEntersIfItIsOpen() (gas: 7659)
